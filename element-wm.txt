@@ -4,4 +4,6 @@ betAreaPlayer
 betAreaBanker
 chip_b_
 
-chip_b_05
+_zhuang-box-total
+_xian-box-total
+_her-box-total
