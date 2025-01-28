@@ -1,2 +1,4 @@
 #mult_chips_box
 countdown
+betAreaPlayer
+betAreaBanker
