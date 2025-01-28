@@ -2,3 +2,6 @@
 countdown
 betAreaPlayer
 betAreaBanker
+chip_b_
+
+chip_b_05
