@@ -2,7 +2,7 @@
 countdown
 betAreaPlayer
 betAreaBanker
-chip_b_
+.chip_b_
 
 _zhuang-box-total
 _xian-box-total
